@@ -1,0 +1,3 @@
+﻿  NtProcessInjection.cpp
+C:\Users\FlareVM\source\repos\NtProcessInjection\NtProcessInjection\NtProcessInjection.cpp(69,26): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  NtProcessInjection.vcxproj -> C:\Users\FlareVM\source\repos\NtProcessInjection\x64\Debug\NtProcessInjection.exe
