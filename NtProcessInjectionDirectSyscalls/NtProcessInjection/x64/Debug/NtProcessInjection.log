@@ -1,5 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (NtProcessInjection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Assembling ..\..\..\..\Desktop\calls\callsstubs.std.x64.asm...
   NtProcessInjectionDirectSyscalls.cpp
-C:\Users\FlareVM\source\repos\NtProcessInjectionDirectSyscalls\NtProcessInjection\NtProcessInjectionDirectSyscalls.cpp(56,26): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\FlareVM\source\repos\NtProcessInjectionDirectSyscalls\NtProcessInjection\NtProcessInjectionDirectSyscalls.cpp(59,26): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
   NtProcessInjection.vcxproj -> C:\Users\FlareVM\source\repos\NtProcessInjectionDirectSyscalls\x64\Debug\NtProcessInjectionDirectSysCalls.exe
